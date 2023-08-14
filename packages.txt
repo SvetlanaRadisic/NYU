@@ -1,3 +1,4 @@
 postgresql=14.05
 postgresql-driver=14.04
 json=*
+doc-to-pdf=1.2.0
